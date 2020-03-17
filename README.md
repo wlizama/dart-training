@@ -1,6 +1,6 @@
 # Dart training
 
-Aprendiendo el lenguaje de programación [Dart](https://dart.dev/)
+Aprendiendo el lenguaje de programación [Dart](https://dart.dev/) y [Flutter framework](https://flutter-es.io/)
 
 
 ## Instalación
