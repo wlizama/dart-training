@@ -24,3 +24,5 @@ Aprendiendo el lenguaje de programación [Dart](https://dart.dev/)
 - [Dart language tour](https://dart.dev/guides/language/language-tour)
 
 - [Flutter instalación](https://flutter-es.io/docs/get-started/install/linux)
+
+- [Flutter video Tuto](https://www.youtube.com/playlist?list=PLl_hIu4u7P6672anZPqgEkWTQkSBOL56_)
